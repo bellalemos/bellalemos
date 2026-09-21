@@ -15,10 +15,10 @@
 
 ### 🚀 Sobre mim
 
-- 💻 Desenvolvedora Front-End Jr., em transição para **Python**, **TypeScript** e **automações com LLMs/IA**
+- 💻 Desenvolvedora Full Stack. Com foco em **Python**, **TypeScript** e **automações com LLMs/IA**
 - 🌱 Estudando integração de modelos de linguagem em fluxos de automação
 - 🎯 Aberta a desafios independentes e novos projetos como dev
-- ⚡ Gosto de transformar interfaces em experiências simples e funcionais
+- ⚡ Gosto de transformar interfaces em experiências interativas e funcionais
 - 📫 Fala comigo pelo LinkedIn ou por aqui mesmo!
 
 ---
