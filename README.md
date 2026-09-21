@@ -81,18 +81,6 @@
 
 ---
 
-### 📌 Projetos em destaque
-
-> Assim que você criar os repositórios de portfólio (veja as sugestões que te passei na conversa), troque os links abaixo pelos reais.
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Nome do Projeto 1](https://github.com/bellalemos/repo-1) | Descrição curta e direta do que o projeto resolve | React · TypeScript |
-| [Nome do Projeto 2](https://github.com/bellalemos/repo-2) | Descrição curta e direta do que o projeto resolve | Python · IA/LLM |
-| [Nome do Projeto 3](https://github.com/bellalemos/repo-3) | Descrição curta e direta do que o projeto resolve | JavaScript |
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
