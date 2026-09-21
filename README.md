@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou a Isabella 👋</h1>
 
-<h3 align="center">Front-End Developer Jr. | Evoluindo para Python, TypeScript & Automações com IA</h3>
+<h3 align="center">Developer Full-stack | Evoluindo para Python, TypeScript & Automações com IA</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isabella-lemos-do-nascimento-793670239/" target="_blank">
